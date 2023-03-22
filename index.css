@@ -1,0 +1,30 @@
+body{
+    background-color: yellow;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.container{
+    background-color: darkcyan;
+    color: aliceblue ;
+    padding: 10px;
+    border-radius: 5px;
+}
+.currency-container{
+padding: 20px;
+display: flex;
+justify-content: space-between;
+}
+.currency-container select{
+    padding:10px;
+
+}
+.currency-container input{
+    border: 0px;
+    background-color: transparent;
+    font-size: 25px;
+    t
+}
